@@ -9,7 +9,7 @@ class PostCommentsController < ApplicationController
 
   def destroy
   end
-  
+
   private
 
   def post_comment_params
